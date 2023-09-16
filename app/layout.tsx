@@ -4,7 +4,7 @@ import "./globals.css";
 import Footer from "@/components/Footer";
 
 export const metadata = {
-  title: "Headshots AI",
+  title: "Headshots AI Demo",
   description: "Generate awesome headshots in minutes using AI",
 };
 
